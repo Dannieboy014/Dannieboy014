@@ -19,7 +19,7 @@ Currently looking for SIWES industrial training placement.
 
 ## Projects
 - [Portfolio Website](https://dannieboy014.github.io/Portfolio)
-- [UI Component Library](https://dannieboy014.github.io/ui-library)
+- [UI Component Library](https://dannieboy014.github.io/Ui-library)
 - [Anchor University Creche](https://github.com/Dannieboy014/anchor-university-creche) — Group project, Anchor University
 ---
 
