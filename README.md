@@ -18,7 +18,7 @@ Currently looking for SIWES industrial training placement.
 - CGPA: 4.26 / 5.0
 
 ## Projects
-- [Portfolio Website](https://dannieboy014.github.io/portfolio)
+- [Portfolio Website](https://dannieboy014.github.io/Portfolio)
 - [UI Component Library](https://dannieboy014.github.io/ui-library)
 - [Anchor University Creche](https://github.com/Dannieboy014/anchor-university-creche) — Group project, Anchor University
 ---
